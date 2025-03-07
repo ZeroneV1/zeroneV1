@@ -6,12 +6,7 @@ My very own Protocol 6 Agar.io client for private servers
   <img src="https://cdn.glitch.global/2d6e8d70-57a5-4dd2-b4bb-c1505f83f020/JPTRAGAR.png" width="622px" title="hover text">
 </p>
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)
+
 
 ## Information
 This is a heavily modified version of [Cigar2](https://github.com/Cigar2/Cigar2). Originally this project started back in 2020 during quaranetine until I decided to leave on the shelf. I finally got back to it and made a new version of Cigar2 because it hasn't had a update since December of 2021.
@@ -71,16 +66,6 @@ From there, find ```<select id="gamemode" class="form-control" onchange="setserv
 ```
 <option value="server url.com">name of server</option>
 ```
-## Discord
-Consider joining the discord...you won't regret it
-<br>
-<br>
-<a href="https://discord.gg/UQ35z2ACNw" target="_blank" class="woo">
-  <img src="https://discordapp.com/api/guilds/1049872644528418856/widget.png?style=banner1" id="dcimg">
-</a>
-
-## Wanna partner?
-Dm me on Discord: `Th3Skeleton#1337`
 
 ## Credits
 * [Cigar2](https://github.com/Cigar2/Cigar2)
