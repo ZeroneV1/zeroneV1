@@ -1,10 +1,13 @@
-const express = require("express");
-const app = express();
+const socket = new WebSocket("wss://fluxagar.onrender.com/"); // Replace with your Render URL
 
-// updated for render
-app.use(express.static("web"));
+socket.onopen = () => {
+    console.log("Connected to the WebSocket server!");
+};
 
-const PORT = process.env.PORT || 1337;
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+socket.onerror = (error) => {
+    console.error("WebSocket Error:", error);
+};
+
+socket.onmessage = (message) => {
+    console.log("Received:", message.data);
+};
